@@ -1,0 +1,12 @@
+main: cz.lukynka.dsf.Main
+name: disconnect-spam-fix
+version: '1.0'
+description: Removes "disconnect.spam" kick function
+load: POSTWORLD
+author: LukynkaCZE
+website: lukynka.cz
+prefix: disconnect-spam-fix
+commands:
+  disconect-spam:
+   aliases: dsf, disconect-spamfix, ds-fix
+   description: Help command
